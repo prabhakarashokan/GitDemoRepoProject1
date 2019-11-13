@@ -1,1 +1,3 @@
 /* Hi Git!! This is my first sample text file in Git */
+
+Making changes to my text file
