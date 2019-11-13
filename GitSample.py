@@ -1,1 +1,1 @@
-print {"This is my first Git sample program"}
+print {"This is my first sample python program"}
